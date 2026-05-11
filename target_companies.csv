@@ -1,0 +1,11 @@
+Company Name,Website,City,Segment,Revenue Band,Federer Score,Verdict
+Ananth Technologies,ananthtech.com,Hyderabad,Defence electronics / aerospace,Rs.100-300Cr,100,Strong Pass
+Avantel Limited,avantel.in,Hyderabad,Defence electronics / communications,Rs.100-300Cr,100,Strong Pass
+Lokesh Machines,lokeshmachines.com,Hyderabad,Precision engineering / aerospace components,Rs.100-300Cr,100,Strong Pass
+ABR Organics,abrorganics.net,Hyderabad,Specialty chemicals / advanced materials,<Rs.50Cr,70,Borderline
+Alkali Metals Limited,alkalimetals.com,Hyderabad,Custom synthesis / specialty chemicals,Rs.50-100Cr,80,Pass
+ViNS Bioproducts,vinsbio.in,Hyderabad,Specialty biotech / antivenoms & antisera,Rs.30-50Cr,80,Pass
+Apollo Micro Systems,apollomicro.in,Hyderabad,Defence electronics,>Rs.500Cr,0,Auto-disqualify
+Suven Pharma,suvenpharm.com,Hyderabad,CDMO / pharma intermediates,Rs.300-500Cr,0,Auto-disqualify
+Vimta Labs,vimtalabs.com,Hyderabad,Contract research / testing services,<Rs.50Cr,0,Auto-disqualify
+Olectra Greentech,olectra.com,Hyderabad,EV / electric bus manufacturing,>Rs.500Cr,0,Auto-disqualify
